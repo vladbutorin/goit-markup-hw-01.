@@ -58,6 +58,10 @@ body {
   color: var(--title-text-color);
 }
 
+.feature-title {
+  color: var(--primary-text-color);
+}
+
 /* Button */
 
 .button {
